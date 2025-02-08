@@ -23,13 +23,13 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 <nav id="navbar" class="navbar">
     <ul class="page-header">            
             <li>
-            <a class="logo" href="home.php"><img src="images/logo.png"></a>
+            <a class="logo" href="index.php"><img src="images/logo.png"></a>
             </li>
         <li class="navigation">
             <div class="nav-toggle">
                 <ul>
-                    <li <?php if ($currentPage == 'home.php') echo 'class="current"'; ?>>
-                    <a href="home.php">HOME</a>
+                    <li <?php if ($currentPage == 'index.php') echo 'class="current"'; ?>>
+                    <a href="index.php">HOME</a>
                     </li>
                     <li <?php if ($currentPage == 'cats.php') echo 'class="current"'; ?>>
                     <a href="cats.php">CATS</a>
