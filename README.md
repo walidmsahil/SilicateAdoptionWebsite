@@ -1,6 +1,6 @@
 # Silicate Adoption Company - Team 1
 
-## Link to website [Link](silicateadoption.ct.ws)
+## Link to website [silicateadoption.ct.ws](silicateadoption.ct.ws)
 
 We created a cat adoption website, where you can adopt cute cats, put a cat up for adoption and buy some delicious products for your feline friend.
 
